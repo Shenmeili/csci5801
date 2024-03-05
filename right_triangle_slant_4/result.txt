@@ -1,0 +1,1 @@
+Result: right_triangle_slant_4.csv was a strike!
