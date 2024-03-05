@@ -1,0 +1,1 @@
+Result: plate_point_1.csv was a strike!
