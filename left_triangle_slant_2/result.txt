@@ -1,0 +1,1 @@
+Result: left_triangle_slant_2.csv was a ball!
