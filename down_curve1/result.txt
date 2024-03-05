@@ -1,0 +1,1 @@
+Result: down_curve1.csv was a strike!
